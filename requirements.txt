@@ -1,0 +1,10 @@
+openai
+bs4
+requests
+playwright
+gradio
+sentence-transformers
+scikit-learn
+chromadb
+fastapi
+uvicorn
